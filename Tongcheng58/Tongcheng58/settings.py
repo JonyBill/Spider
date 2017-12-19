@@ -14,6 +14,7 @@ BOT_NAME = 'Tongcheng58'
 SPIDER_MODULES = ['Tongcheng58.spiders']
 NEWSPIDER_MODULE = 'Tongcheng58.spiders'
 
+# SQL数据库
 MYSQL_HOST = 'localhost'
 MYSQL_DBNAME = 'tongcheng58'
 MYSQL_USER = 'root'
